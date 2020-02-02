@@ -1,11 +1,13 @@
 # Cat Forces vs Zombies
+***
+**25.01.2020**
 
-25.01.2020
+**Питецкий Владимир**
 
-Питецкий Владимир
+**Wizard Entertainment©**
 
-Wizard Entertainment©
-
+[<img src=https://github.com/itstep-vrn/Wizard-entertainment/blob/master/artBOOK/wizard.jpg width="150" height="70"/>](https://vk.com/wizard_entertainment)
+***
 Обзор
 Игра представляет собой аркаду, где игрок будет выбирать определенные
 действия влияющие на статусы его аватара, а также на сюжетную линию. В
